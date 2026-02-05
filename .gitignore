@@ -1,21 +1,2 @@
-# Файлы операционной системы
-.DS_Store           # Mac
-Thumbs.db           # Windows
-desktop.ini         # Windows
-
-# Файлы редакторов и IDE
-.vscode/            # Настройки VS Code
-.idea/              # Настройки JetBrains (PyCharm, WebStorm)
-*.swp               # Временные файлы Vim
-
-# Логи и кэш
-*.log
-*.tmp
-*.cache
-
-# Зависимости проектов (если будете делать проекты на Python/Node.js)
-__pycache__/        # Python кэш
-*.pyc
-node_modules/       # JavaScript библиотеки
-venv/               # Виртуальное окружение Python
-.env                # Файлы с паролями (никогда не добавляйте в Git!)
+ssh-keygen.txt
+ssh-keygen.txt.pub
